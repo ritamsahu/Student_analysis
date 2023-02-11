@@ -4,8 +4,8 @@ Harvesting the data using Google form then analyse the data using Python.
 ## Problem Statement
 
 Demographic information:
-What is the average height and weight of the students in the dataset?
-What is the distribution of family income among the students?
+1. What is the average height and weight of the students in the dataset?
+2. What is the distribution of family income among the students?
 
 Purpose of Study:
 What is the main reason behind the students pursuing higher studies in Zoology?
